@@ -5,13 +5,16 @@
 }
 
 body {
-    background-color: #f0a550;
+    background-color: #8187d6;
 }
 
 main {
-    background-color: rgb(134, 86, 23);
+    background-color: rgb(255, 255, 255);
     width: 50%;
     margin: auto;
-    padding: 10px;
+    padding: 50px;
     box-shadow: 3px 3px 5px black;
+}
+img.lado {
+    float: right;
 }
